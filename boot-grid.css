@@ -1,5 +1,7 @@
-.col-{
+.codey{
+    display:flex;
     font-family: Abel;
+    justify-content: center;
 }
 .visual{
     font-family: Anton;
@@ -12,5 +14,7 @@
     background-color: #E6563B;
     border-radius: 50%;
     display: inline-block;
-    border: white 10px;
+    border: white solid 10px;
 }
+
+
