@@ -1,10 +1,11 @@
 .codey{
     display:flex;
-    font-family: Abel;
+    font-family: Abel, serif;
     justify-content: center;
 }
+
 .visual{
-    font-family: Anton;
+    font-family: Anton, serif;
     padding: .5em;
 }
 
@@ -15,6 +16,47 @@
     border-radius: 50%;
     display: inline-block;
     border: white solid 10px;
+    align-items: center;
+    justify-content: center;
+    font-family: Anton, serif;
+    color: white;
 }
 
+.dot1{
+    height: 105px;
+    width: 105px;
+    background-color: #EB9D3A;
+    border-radius: 50%;
+    display: inline-block;
+    border: white solid 10px;
+    align-items: center;
+    justify-content: center;
+    font-family: Anton, serif;
+    color: white;
+}
+
+.dot2 {
+    height: 105px;
+    width: 105px;
+    background-color: #7CB06C;
+    border-radius: 50%;
+    display: inline-block;
+    border: white solid 10px;
+    align-items: center;
+    justify-content: center;
+    font-family: Anton, serif;
+    color: white;
+}
+.dot3 {
+    height: 105px;
+    width: 105px;
+    background-color: #00ABA9;
+    border-radius: 50%;
+    display: inline-block;
+    border: white solid 10px;
+    align-items: center;
+    justify-content: center;
+    font-family: Anton, serif;
+    color: white;
+}
 
