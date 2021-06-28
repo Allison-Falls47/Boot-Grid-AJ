@@ -17,6 +17,7 @@
 .visual2{
     font-family: Abel, serif;
     padding: .5em;
+    margin-top: 1em;
 }
 
 .dot {
@@ -72,4 +73,52 @@
 .image2 {
     display: flex;
     padding: 1em;
+}
+
+.dotsmall {
+    height: 30px;
+    width: 30px;
+    background-color: #E6563B;
+    border-radius: 50%;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    font-family: Anton, serif;
+    margin: .2em;
+}
+
+.dotsmall2 {
+    height: 30px;
+    width: 30px;
+    background-color: #EB9D3A;
+    border-radius: 50%;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    font-family: Anton, serif;
+    margin: .2em;
+}
+
+.dotsmall3 {
+    height: 30px;
+    width: 30px;
+    background-color:  #7CB06C;
+    border-radius: 50%;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    font-family: Anton, serif;
+    margin: .2em;
+}
+
+.dotsmall4 {
+    height: 30px;
+    width: 30px;
+    background-color: #00ABA9;
+    border-radius: 50%;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    font-family: Anton, serif;
+    margin: .2em;
 }
