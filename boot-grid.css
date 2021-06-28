@@ -1,3 +1,11 @@
+.image {
+    display: flex;
+    margin-top: 1em;
+    justify-content: center;
+    width: 100%;
+}
+
+
 .codey{
     display:flex;
     font-family: Abel, serif;
@@ -20,8 +28,9 @@
     justify-content: center;
     font-family: Anton, serif;
     color: white;
-}
+    margin-bottom: .5em;
 
+}
 .dot1{
     height: 105px;
     width: 105px;
